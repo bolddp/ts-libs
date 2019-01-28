@@ -6,4 +6,3 @@ class AwsAuthService {
     }
 }
 exports.AwsAuthService = AwsAuthService;
-//# sourceMappingURL=AwsAuthService.js.map
