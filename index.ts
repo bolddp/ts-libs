@@ -1,3 +1,2 @@
-export interface AuthService {
-  autoAuthorizeNames(name1: string, name2: string): string;
-}
+export * from './lib/src/AuthService';
+export * from './lib/src/AwsAuthService';
